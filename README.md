@@ -91,9 +91,13 @@
 5. **종료**
 - exit 명령어 또는 Ctrl+C 입력이 들어올 경우 적절한 리턴값을 반환하여 종료
 
+---
+
 ### 소스 코드
 
 - [https://github.com/sanchoco/42_minishell](https://github.com/sanchoco/42_minishell)
+
+---
 
 ### 참고 사이트
 
