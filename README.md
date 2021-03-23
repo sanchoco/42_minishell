@@ -2,10 +2,10 @@
 
 > C언어 저수준 입출력으로 Bash 쉘과 똑같이 동작하도록 구현
 
-테스트 환경: mac os
+테스트 환경: MacOS Catalina
 
 실행 방법:
-해당 폴더에서 make 명령어
+클론한 폴더에서 make 명령어 실행하고 이후 생성된 minishell 파일 실행
 
 실행 화면:   
 ![스크린샷 2021-03-09 오전 9 37 03](https://user-images.githubusercontent.com/58046372/110400612-49c7c280-80bb-11eb-9aa6-33f71f795b04.png)
@@ -92,10 +92,6 @@
 - exit 명령어 또는 Ctrl+C 입력이 들어올 경우 적절한 리턴값을 반환하여 종료
 
 ---
-
-### 소스 코드
-
-- [https://github.com/sanchoco/42_minishell](https://github.com/sanchoco/42_minishell)
 
 
 ### 참고 사이트
